@@ -1,0 +1,10 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "echo 'Assets are served directly from public/'",
+        "build": "echo 'Assets are served directly from public/'"
+    },
+    "devDependencies": {
+        "axios": "^1.7"
+    }
+}
